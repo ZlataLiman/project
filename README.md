@@ -1,7 +1,7 @@
 # project
 <html>
 <head>
-Проект по цифровой грамотности
+<title>Проект по цифровой грамотности</title>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="MashaZlata>
 </head> 
