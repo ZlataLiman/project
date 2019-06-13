@@ -28,6 +28,7 @@
 <br/> <hr/> <br/>
 
 <p><h3><strong>Фарцовщик - фарцовщица </strong></h3></p>
+<p><img src="farzovshik.jpg"></p><br/>
 <br/>
 <li>Лоточник - лоточница </li>
 <br/>
