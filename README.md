@@ -24,7 +24,7 @@
 
 <br> <hr> <br> 
 <p><h3><strong>Торгаш - торгашка </h3></p> 
-<p><img src="троцкизм.jpg"></p>
+<p><img src="torgash.jpg"></p>
 <br/> <hr/> <br/>
 
 <p><h3><strong>Фарцовщик - фарцовщица </strong></h3></p>
