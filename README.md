@@ -1,6 +1,6 @@
 # project
 <html>
-  <doctype!>
+<doctype!>
 <head>
 <title>Проект по цифровой грамотности</title>
 <meta charset="UTF-8">
