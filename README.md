@@ -18,7 +18,7 @@
 Челночник - челночница 
 </p>
 </br>
-<p><img src="нкря.jpg"></p>
+<p><img src="chelnok.jpg"></p>
 <br/>
 
 <br> <hr> <br> 
