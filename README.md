@@ -3,7 +3,7 @@
 <head>
 <title>Проект по цифровой грамотности</title>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="Lera.css">
+<link rel="stylesheet" href="ZM.css">
 </head> 
 <body> 
 <center><h1>Проект по цифровой грамотности</h1></center> 
