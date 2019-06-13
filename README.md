@@ -1,10 +1,10 @@
 # project
-<doctype!>
+
 <html>
 <head>
 Проект по цифровой грамотности
 <meta charset="UTF-8">
-<link rel="stylesheet" href="Lera.css">
+<link rel="stylesheet" href="MashaZlata>
 </head> 
 <body> 
 <center><h1>Проект по цифровой грамотности</h1></center> 
